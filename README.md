@@ -6,15 +6,14 @@
 
 <div style="display: inline_block"><br>
      <a href="https://github.com/geovanaAnani">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovanaAnani&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanaAnani&layout=compact&langs_count=7&theme=codeSTACKr"/>
+     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=geovanaAnani&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanaAnani&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
   
-  ##
   <div style="display: inline_block"><br>
-      <img align="center" alt="Geo-ktl" height="50" width="40" src= https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg>
-      <img align="center" alt="Geo-git" height="50" width="40" src= https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg>
-      <img align="center" alt="Geo-ad" height="50" width="40" src= https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg>
+      <img align="center" alt="Geo-ktl" height="80" width="50" src= https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg>
+      <img align="center" alt="Geo-git" height="80" width="50" src= https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg>
+      <img align="center" alt="Geo-ad" height="80" width="50" src= https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg>
      </div>
   
   ##
